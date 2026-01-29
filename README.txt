@@ -1,6 +1,6 @@
 #README
 
-#Project Findings
+#Project Findings (see dashboard images at: https://www.instagram.com/p/C_OEO1munOz/?img_index=1)
 
 "They don't make movies like they used to" - yeah, they literally don't.
 
@@ -25,3 +25,4 @@ The count of mid-budget films are decreasing at a higher rate than the others, a
 3) A few examples of the unhealthy market distribution where a couple films completely dominated the industry for that year
 
 4) A fun, simple visual to show the Top 20 movies of all time, 13 of the 20 are owned by Disney and are identified by the *, and almost all the movies are a sequel or part of a larger franchise.
+
